@@ -1,0 +1,23 @@
+﻿[
+  {
+    "title": "Fine",
+    "client": "MotionMAX",
+    "riveURL": "https://cdn.jsdelivr.net/gh/MaxiMara/rive-assets@main/folio_moods3.riv",
+    "link": "/project/fine",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+  },
+  {
+    "title": "Fuze Time",
+    "client": "Max Studio",
+    "riveURL": "https://cdn.jsdelivr.net/gh/MaxiMara/rive-assets@main/folio_fuzetime.riv",
+    "link": "/project/fuzetime",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968890.png"
+  },
+  {
+    "title": "Writer",
+    "client": "Max Studio",
+    "riveURL": "https://cdn.jsdelivr.net/gh/MaxiMara/rive-assets@main/folio_writer.riv",
+    "link": "/project/writer",
+    "logo": "https://cdn-icons-png.flaticon.com/512/5968/5968520.png"
+  }
+]
